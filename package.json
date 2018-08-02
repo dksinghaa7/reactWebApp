@@ -1,0 +1,19 @@
+{
+  "name": "reactwebapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dksinghaa7/reactWebApp.git"
+  },
+  "author": "Deepak Kumar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dksinghaa7/reactWebApp/issues"
+  },
+  "homepage": "https://github.com/dksinghaa7/reactWebApp#readme"
+}
